@@ -1,0 +1,11 @@
+<!--pages/welcome/welcome.wxml-->
+<view class="container">
+  <l-avatar class="l-avatar"  src="/images/avatar/touxiang.jpg" size="200"/>
+  <text class="motto">Hello，Loman</text>
+  <!-- <button>开启小程序之旅</button> -->
+  <view class="journey-container">
+    <text class="journey">开启小程序之旅</text>
+  </view>
+</view>
+
+<!-- flex 容器布局 对iamge、text、button布局不用对元素本身设置样式，而是通过容器控制布局 -->
